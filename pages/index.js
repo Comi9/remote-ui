@@ -60,7 +60,7 @@ export default function Home() {
 
           <div className="flex justify-center mt-8 bg-white px-4 py-5 sm:px-6 rounded-lg">
 
-            <h4 className="text-xl font-medium text-gray-900">Colors / UI</h4>
+            <h4 className="text-xl font-medium text-gray-900">Colors / UI / remoteUI</h4>
 
           </div>
         </div>
